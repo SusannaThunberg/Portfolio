@@ -2,16 +2,18 @@
     --primary-color: #6c63ff;
     --secondary-color: #f5f2fe;
     --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-    --justify: left;
+    --justify: center;
 }
 
 @media (max-width: 576px) {
-    h4 {
-        text-align: center;
-        color: blue;
+    h1 {
+        font-size: 48px;
     }
     .images {
         display: none;
+    }
+    .navigation-links {
+        padding: 2px;
     }
 }
 
@@ -29,7 +31,7 @@ h1 {
 h2 {
     font-size: 48px;
     padding: 20px;
-    text-align: left;
+    text-align: var(--justify);
 }
 
 h3 {
