@@ -39,7 +39,7 @@ p {
 }
 
 body {
-    margin: 100px 0;
+    margin: 55px 0;
 }
 
 .hero {
@@ -62,7 +62,6 @@ body {
 
 .contact-link {
     background: var(--primary-color);
-    box-shadow: var(--box-shadow);
     color: white;
 }
 
