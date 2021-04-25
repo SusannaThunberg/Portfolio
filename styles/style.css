@@ -1,11 +1,11 @@
 :root {
-    --primary-color: rgb(145, 123, 95);
-    --secondary-color: #f5f2fe;
+    --primary-color: rgb(95, 145, 122);
+    --secondary-color: #f2fef9;
     --justify: center;
     --heading-font: "Raleway", sans-serif;
     --default-font: "Dosis", sans-serif;
-    --branding-color: rgba(250, 235, 215, 0.3);
-    --mouseover-color: rgb(105, 5, 5);
+    --branding-color: rgba(215, 250, 222, 0.3);
+    --mouseover-color: rgb(5, 105, 63);
 }
 
 h1,
